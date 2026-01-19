@@ -1,0 +1,37 @@
+
+
+.container1{
+  background: radial-gradient(#ffe6f0, #ffb6c1);
+  height: 100vh;
+  display: flex;
+ 
+  
+  font-family: cursive;
+  background-size: 300% 300%;
+  overflow: hidden;
+}
+
+.t1{
+  margin-left: 450px;
+  margin-top: 150px;
+}
+
+.t15{
+  margin-top: 150px;
+  margin-left: 80px;
+
+  color: black;
+
+}
+
+.btn1{
+  margin-top: 50px;
+  padding: 14px 30px;
+  font-size: 18px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.9);
+  color: #c2185b;
+  font-weight: bold;
+}

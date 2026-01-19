@@ -1,0 +1,43 @@
+.f12{
+  background: radial-gradient(#ffe6f0, #ffb6c1);
+  height: 900px;
+  width: 100%;
+  font-family: cursive;
+  background-size: 300% 300%;
+  /* overflow: hidden; */
+  justify-items: center;
+  align-items: center;
+  position: relative; 
+ 
+}
+
+.s1{
+  margin-left: 450px;
+  margin-top: 50px;
+}
+
+.c5{
+  margin-left: 450px;
+  margin-top: 50px;
+}
+
+.p1{
+  margin-top: 5px;
+  font-size: 20px;
+  color: rgb(207, 48, 75);
+  
+}
+
+.b7{
+  padding: 14px 30px;
+  margin-left: 450px;
+  margin-top: 10px;
+  font-size: 18px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.9);
+  color: #c2185b;
+  font-weight: bold;
+  transition: transform 0.2s ease;
+}

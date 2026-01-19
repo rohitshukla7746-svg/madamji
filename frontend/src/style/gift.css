@@ -1,0 +1,78 @@
+/* .g1 {
+  height: 100vh;
+  background: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.b1 {
+  padding: 12px 30px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.text-container {
+  margin-top: 40px;
+  height: 60px;
+}
+
+.t2 {
+  color: white;
+  font-size: 28px;
+  text-align: center;
+} */
+
+
+/* Main container */
+.g1 {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;   /* vertical center */
+  align-items: center;       /* horizontal center */
+  background: black;
+  text-align: center;
+}
+
+/* Button group */
+.btn-group {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+/* Buttons */
+.b1 {
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Music timeline slider */
+.time-slider {
+  width: 280px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+
+/* Time text */
+.time-text {
+  color: white;
+  font-size: 14px;
+  margin-bottom: 25px;
+}
+
+/* Text animation container */
+.text-container {
+  min-height: 60px; /* prevents layout jump */
+}
+
+/* Animated text */
+.t2 {
+  color: white;
+  font-size: 22px;
+}

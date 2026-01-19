@@ -1,0 +1,21 @@
+
+.text{
+  opacity: 1;
+  margin-left: 0px;
+  font-family: cursive;
+}
+
+.btn1{
+  padding: 14px 30px;
+  font-size: 18px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.9);
+  color: #c2185b;
+  font-weight: bold;
+}
+
+
+
+

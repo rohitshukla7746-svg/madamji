@@ -1,0 +1,24 @@
+.n2 {
+  background: radial-gradient(#ffe6f0, #ffb6c1);
+  height: 250vh;
+ font-size: 35px;
+  
+  font-family: cursive;
+  line-height: 1.8;
+  /* background-size: 300% 300%; */
+  /* overflow: hidden; */
+}
+
+.c1{
+  padding: 14px 30px;
+  font-size: 18px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.9);
+  color: #c2185b;
+  font-weight: bold;
+  transition: transform 0.2s ease;
+}
+
+

@@ -1,0 +1,23 @@
+.heart-cursor {
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-size: 26px;
+  pointer-events: none;
+  z-index: 9999;
+  transform: translate(-50%, -50%);
+}
+
+.heart-trail {
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-size: 18px;
+  pointer-events: none;
+  color: pink;
+  transform: translate(-50%, -50%);
+}
+
+.heart-trail::before {
+  content: "💗";
+}
