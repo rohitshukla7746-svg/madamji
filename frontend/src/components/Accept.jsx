@@ -14,7 +14,7 @@ import "../style/accept.css";
 export default function Reject() {
 
   // cake image
-  const [image, setImage] = useState("/images/c1.png");
+  const [image, setImage] = useState("images/c1.png");
 
   // cake visibility
   const [showCake, setShowCake] = useState(false);
@@ -64,7 +64,7 @@ export default function Reject() {
   };
 
   const blowCandle = () => {
-    setImage("/images/c2.png");
+    setImage("images/c2.png");
    
 
     

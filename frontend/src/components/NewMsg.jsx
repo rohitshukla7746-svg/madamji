@@ -126,7 +126,7 @@ export default function NewMsg() {
       // }}
     >
 
-      <audio ref={audioRef} src="/music/m1.mpeg" />
+      <audio ref={audioRef} src="music/m1.mpeg" />
 
       <motion.button
        whileTap={{ scale: 0.9 }}
