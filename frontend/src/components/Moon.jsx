@@ -67,7 +67,7 @@ export default function Moon() {
   return (
     <div className="g1">
 
-      <audio ref={audioRef} src="/music/m1.mpeg" />
+      <audio ref={audioRef} src="music/m1.mpeg" />
 
       <div className="d1">
         <motion.button
@@ -99,7 +99,7 @@ export default function Moon() {
         animate={control}
         className="s2"
       >
-        <img className="m2" src="/images/ba6.png" alt="" />
+        <img className="m2" src="images/ba6.png" alt="" />
       </motion.div>
 
       {/* TEXT ANIMATION */}

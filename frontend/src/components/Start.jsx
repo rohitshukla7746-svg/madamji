@@ -80,7 +80,7 @@ function Start() {
          
 
          <div ref={gsapimg} id="box">
-        <img src="/images/picsart.png" alt="" /> 
+        <img src="images/picsart.png" alt="" /> 
       </div> 
 
 

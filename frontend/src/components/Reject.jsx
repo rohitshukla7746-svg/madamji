@@ -11,7 +11,7 @@ const navigate = useNavigate();
     <div className="container1">
 
       <div className="t1">
-        <img src="/images/cat.gif" alt="" />
+        <img src="images/cat.gif" alt="" />
       </div>
 
       <div className="t15">

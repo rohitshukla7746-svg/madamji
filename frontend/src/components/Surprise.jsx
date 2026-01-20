@@ -88,10 +88,10 @@ export default function Surprise () {
     <div className="container2">
 
       <div className="d1">
-      <Link to={"/en1"}> <img className="e1" src="/images/e2.png" alt="" /></Link>
-       <Link to={"/en2"}>   <img className="e2" src="/images/e2.png" alt="" /> </Link>
-        <Link to={"/en3"}>  <img className="e3" src="/images/e2.png" alt="" /> </Link>
-         <Link to={"/en4"}><img className="e4" src="/images/e2.png" alt="" /> </Link> 
+      <Link to={"/en1"}> <img className="e1" src="images/e2.png" alt="" /></Link>
+       <Link to={"/en2"}>   <img className="e2" src="images/e2.png" alt="" /> </Link>
+        <Link to={"/en3"}>  <img className="e3" src="images/e2.png" alt="" /> </Link>
+         <Link to={"/en4"}><img className="e4" src="images/e2.png" alt="" /> </Link> 
       </div>
 
       

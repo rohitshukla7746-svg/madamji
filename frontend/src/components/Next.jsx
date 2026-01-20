@@ -66,7 +66,7 @@ function Next() {
     <div className="container">
       
        <div ref={catRef} className="f1" >
-       <img src="/images/cute-cat-flower-cat.gif" alt="\" />
+       <img src="images/cute-cat-flower-cat.gif" alt="\" />
        
        <motion.button whileTap={{ scale: 0.9 }}
          whileHover={{scale: 1.2}}

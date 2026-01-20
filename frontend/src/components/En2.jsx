@@ -12,7 +12,7 @@ export default function En2 () {
   return(
     <div className="f12">
       <h1 className="s1">You are so Special ❤️</h1>
-      <img className="c5" src="/images/img6.png" alt="" />
+      <img className="c5" src="images/img6.png" alt="" />
       <motion.p className="p1"
       initial={{opacity: 0, x: 400}}
       animate={{duration: 5, opacity: 1, x: 450}}

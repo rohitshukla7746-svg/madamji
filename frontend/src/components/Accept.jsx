@@ -110,9 +110,9 @@ export default function Reject() {
      
 
       {/* DECOR */}
-      <img src="/images/h4.png" className="decor" alt="" />
+      <img src="images/h4.png" className="decor" alt="" />
       
-      <audio ref={musicRef} src="/music/m1.mpeg" />
+      <audio ref={musicRef} src="music/m1.mpeg" />
 
       {/* BUTTONS */}
       <div className="d1">
