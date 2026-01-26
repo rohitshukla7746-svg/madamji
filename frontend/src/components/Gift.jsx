@@ -82,7 +82,12 @@ export default function Moon() {
     "Hello ❤️",
     "I have something to tell you",
     "You mean a lot to me",
-    "This moment matters ✨",
+    "sorry late ke liye ",
+    "ye laptop ke wajah se hua late",
+    "aapke birthday per aapke liye ",
+    "chhota sa gift aur gift aana baaki hai bss wait karo ",
+    "And yeah my cutu, u are best, Ek baar bolne do ye bss",
+    "I love u ❤️",
   ];
 
   /* 🎵 Music Play / Pause */
@@ -137,7 +142,7 @@ export default function Moon() {
 
   return (
     <div className="g1">
-      <audio ref={audioRef} src="music/m1.mpeg" />
+      <audio ref={audioRef} src="music/m2.aac" />
 
       {/* 🔘 Buttons First */}
       <div className="btn-group">
