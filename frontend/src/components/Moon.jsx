@@ -41,6 +41,9 @@ export default function Moon() {
     "NEXT"
   ];
 
+  console.log(hello);  
+
+
   const handleMusic = () => {
     audioRef.current.play();
   };

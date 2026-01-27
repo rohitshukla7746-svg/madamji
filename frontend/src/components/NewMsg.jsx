@@ -119,6 +119,8 @@ export default function NewMsg() {
     visible: { opacity: 1, y: 0 }
   };
 
+  console.log(hello);
+
   return (
     
     <motion.div className="n2"
@@ -133,6 +135,7 @@ export default function NewMsg() {
       // }}
     >
 
+      
       <audio ref={audioRef} src="music/m5.mp3" />
 
       <motion.button
