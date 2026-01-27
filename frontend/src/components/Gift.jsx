@@ -142,7 +142,7 @@ export default function Moon() {
 
   return (
     <div className="g1">
-      <audio ref={audioRef} src="music/m2.aac" />
+      <audio ref={audioRef} src="/music/m2.aac" />
 
       {/* 🔘 Buttons First */}
       <div className="btn-group">
