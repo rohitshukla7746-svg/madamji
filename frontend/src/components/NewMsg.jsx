@@ -91,6 +91,7 @@ export default function NewMsg() {
     "No matter where life takes us, know that you will always be someone I care about deeply.",
     
     "No matter what life brings, a part of my heart will always choose you.",
+    "cutu",
     "Today is all about you — your smile, your heart, and the joy you bring into my world.",
     "Happy Birthday, my beautiful girl 💕✨"
   ];

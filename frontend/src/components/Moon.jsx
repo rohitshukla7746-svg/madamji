@@ -36,6 +36,7 @@ export default function Moon() {
     "back your smile, piece by piece",
     "You're never a burden to me.",
     "Even in a room full of people, my eyes will always search for you",
+    "Cutu❤️",
     "Happiest Birthday Cutu❤️",
     "NEXT"
   ];
