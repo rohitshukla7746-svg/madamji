@@ -21,8 +21,11 @@ export default function Moon() {
     "Hello, Moon",
     "You can",
     "Find me when your family hurts you",
+    "You can",
     "Find me when your friends let you down",
+    "You can",
     "Find me when the world feels too heavy to carry alone ",
+    "And",
     "When your heart feels like it's breaking,",
     "When you're tired of being strong,",
     "When silence gets loud and no one seems to hear you",
@@ -32,7 +35,8 @@ export default function Moon() {
     "And I'll try my best to bring",
     "back your smile, piece by piece",
     "You're never a burden to me.",
-    "Happiest Birthday ❤️",
+    "Even in a room full of people, my eyes will always search for you",
+    "Happiest Birthday Cutu❤️",
     "NEXT"
   ];
 

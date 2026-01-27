@@ -77,6 +77,12 @@ export default function NewMsg() {
     "You have this beautiful way of making everything brighter, even without trying.",
     "Being with you has taught me what real happiness feels like, and every moment with you is something I’m grateful for.",
     "",
+    "There are moments when I feel lost or scared, but the thought of you always gives me strength",
+    " You’ve become my reason to smile, my reason to keep going, and my reason to believe in love",
+    "I don’t know what I did to deserve someone as incredible as you,",
+    " but I promise I’ll spend my life making sure you always feel loved, safe, and cherished",
+    " You’re my heart, my soul, and my everything",
+
     "Every time I think about you, my heart feels a little fuller.",
     "You are not just someone I care about — you are someone who changed the way I see happiness.",
     "Your smile feels like home to me, and your presence makes even ordinary moments special.",
